@@ -23,7 +23,7 @@ export function AnalyticsCard(props) {
             </div>
             <div className='inline'>
                 <div className='flex justify-between'>
-                    <div>建站天数:</div>
+                    <div>运营天数:</div>
                     <div>{diffDays} 天</div>
                 </div>
             </div>
