@@ -5,8 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: 'IT4', url: 'https://blog.tangly1024.com' },
-    { title: '关注科技大小事', url: 'https://docs.tangly1024.com' }
+
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -17,10 +16,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '科技',
   HEO_HERO_TITLE_2: '美好生活',
-  HEO_HERO_TITLE_3: 'it4.cn',
+  HEO_HERO_TITLE_3: 'it4.cc',
   HEO_HERO_TITLE_4: '测评专区',
   HEO_HERO_TITLE_5: '一同探索科技的乐趣',
-  HEO_HERO_TITLE_LINK: 'https://it4.cn',
+  HEO_HERO_TITLE_LINK: 'https://it4.cc',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
