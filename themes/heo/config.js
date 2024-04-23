@@ -41,7 +41,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  HEO_INFO_CARD_URL: 'https://it4.cn', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://it4.cc', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
